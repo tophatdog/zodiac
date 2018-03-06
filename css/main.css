@@ -1,0 +1,36 @@
+body {
+  background-color: white;
+  color  : white;
+}
+
+div {
+  /* background-color: red; */
+  /* background-color: #4aa1e6; */
+  color : black;
+  margin : auto;
+  width : 90%;
+}
+
+#div-bg{
+  background-color: #4aa1e6;
+}
+
+
+/* h1 {
+  padding : 50px
+  letter-spaceing : 5px
+}
+
+} */
+.red{
+  background: red;
+}
+
+#right{
+  color: white;
+
+}
+
+#yoyo{
+  color: white;
+}
