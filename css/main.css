@@ -1,6 +1,7 @@
 body {
-  background-color: white;
-  color  : white;
+  height: 900px;
+     background-color: #cccccc;
+     background-image: radial-gradient(white,yellow);
 }
 
 div {
@@ -10,21 +11,24 @@ div {
   margin : auto;
   width : 90%;
 }
+.navbar{
+    background-color: green;
+}
 
 #div-bg{
-  background-color: #4aa1e6;
+  background-color: green;
+}
+
+#salt{
+  background-color: green;
+
+}
+
+#bgcc{
+  background-color: green;
 }
 
 
-/* h1 {
-  padding : 50px
-  letter-spaceing : 5px
-}
-
-} */
-.red{
-  background: red;
-}
 
 #right{
   color: white;
@@ -33,4 +37,24 @@ div {
 
 #yoyo{
   color: white;
+}
+
+#badfish{
+color:green;
+
+}
+
+#main-slider .item {
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  /* background-size: cover; */
+}
+
+
+ .lets{
+    background-color: #4aa1e6;
+    width: 330px;
+    height: 110px;
+    overflow: auto;
 }
